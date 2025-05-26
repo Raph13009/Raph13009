@@ -43,7 +43,7 @@ I use code as a tool to ship smart ideas, automate boring stuff, and build usefu
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
-    <img alt="github-snake-animation" src="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
+    <img alt="github-snake-animation" src="https://raw.githubusercontent.com/Raph13009/Raph13009/main/snake.yml" />
   </picture>
 </p>
 
