@@ -10,21 +10,19 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Raphaël** — not a full-time developer, but definitely a full-time problem solver 😄  
-I use code as a tool to ship smart ideas, automate boring stuff, and build useful things fast.
+Hi, I’m Raphaël. I’m not a developer by trade, but I use code regularly to build tools, test ideas, and improve user-facing products.  
+My focus is on simplicity, clarity, and moving fast when needed.
 
-- ⚙️ I mainly work with **JavaScript / React** and **Python** (when I don't delegate to AI 😅).
-- 🧠 I love building AI-powered tools and low-code automations.
-- 🧪 Currently focused on frontend at <a href="https://github.com/getlazo/lazo_web">Lazo</a>, working on their mobile-friendly web app.
-- 🧰 Passionate about tools, workflows, and making things actually work (without over-engineering them).
+- I mostly work with **JavaScript / React** for front-end interfaces, and **Python** for automation scripts.
+- Currently focused on frontend at <a href="https://github.com/getlazo/lazo_web">Lazo</a>, working on their mobile-friendly web app.
+- I care about clean UX, useful products, and building things that actually serve people.
 
 ---
 
 ## 🔗 Projects
 
-- 🖥️ <a href="https://github.com/Raph13009/codeBase3">My personal website</a> – JS/React based, simple and evolving portfolio.
-- 🧠 Private tools for Notion, Figma, AI agents, and marketing automations (soon open-sourced).
-- 💡 Always hacking on little side projects to test ideas.
+- <a href="https://github.com/Raph13009/codeBase3">My personal website</a> — simple React-based site, evolving as I learn.
+- Private tools and experiments around Notion, Figma, and workflow automation.
 
 ---
 
@@ -43,10 +41,10 @@ I use code as a tool to ship smart ideas, automate boring stuff, and build usefu
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
-    <img alt="github-snake-animation" src="https://raw.githubusercontent.com/Raph13009/.github/worflows/snake.yml" />
+    <img alt="github-snake-animation" src="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
   </picture>
 </p>
 
 ---
 
-> ✨ *"Less code. More clarity. Always shipping."*
+<p align="center"><i>Always learning. Sometimes building.</i></p>
