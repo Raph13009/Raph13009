@@ -1,21 +1,25 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1 style="margin: 0;">Welcome to my profile 👋</h1>
   <div>
-    <a href="https://www.linkedin.com/in/rapha%C3%ABl-levy-b7656a237/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-    <a href="mailto:raphaellevy027@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
+    <a href="https://www.linkedin.com/in/rapha%C3%ABl-levy-b7656a237/">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    </a>
+    <a href="mailto:raphaellevy027@gmail.com">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    </a>
   </div>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-Hi, I’m Raphaël. I’m not a developer by trade, but I use code regularly to build tools, test ideas, and improve user-facing products.  
-My focus is on simplicity, clarity, and moving fast when needed.
+Hi, I’m Raphaël.  
+I’m not a developer by trade, but I use code regularly to build tools, test ideas, and improve user-facing products.
 
-- I mostly work with **JavaScript / React** for front-end interfaces, and **Python** for automation scripts.
+- Mostly working with **JavaScript / React** and **Python** for automation.
 - Currently focused on frontend at <a href="https://github.com/getlazo/lazo_web">Lazo</a>, working on their mobile-friendly web app.
-- I care about clean UX, useful products, and building things that actually serve people.
+- I care about clean UX, useful products, and keeping things simple and efficient.
 
 ---
 
@@ -37,9 +41,8 @@ My focus is on simplicity, clarity, and moving fast when needed.
 
 ---
 
-<!-- 🎯 Snake animation using Sutil/snk -->
 <p align="center">
-  <img alt="snake animation" src="https://github.com/Raph13009/Raph13009/blob/output/github-contribution-grid-snake2.svg" />
+  <img alt="github-snake-animation" src="https://raw.githubusercontent.com/Raph13009/Raph13009/output/github-contribution-grid-snake2.svg" />
 </p>
 
 ---
