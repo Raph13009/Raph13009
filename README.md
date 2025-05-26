@@ -12,11 +12,9 @@
 
 Hi! I'm Raphaël — I’m not a full-time dev, but I use code daily to build smart automations, design fast web interfaces, and explore the power of AI.
 
-- ⚡ I mainly work with **JavaScript / React** and **Python** for tools, dashboards and data workflows.
-- 🤖 I enjoy creating small AI-powered agents and automation scripts.
-- 🎯 Currently focused on frontend at <a href="https://lazo.app">Lazo</a>, and experimenting with no-code/low-code workflows.
-- 🌍 I like making things that are clean, useful and easy to use — not just functional.
-- 🚀 Curious about startup tech, APIs, and elegant UX.
+- I mainly work with **JavaScript / React** and **Python** for tools, dashboards and data workflows.
+- I enjoy creating small AI-powered agents and automation scripts.
+- Currently focused on frontend at <a href="https://lazo.app">Lazo</a>, a Mobile friendly website.
 
 ---
 
