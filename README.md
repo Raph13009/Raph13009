@@ -14,7 +14,7 @@ Hi! I'm Raphaël — I’m not a full-time dev, but I use code daily to build sm
 
 - I mainly work with **JavaScript / React** and **Python** for tools, dashboards and data workflows.
 - I enjoy creating small AI-powered agents and automation scripts.
-- Currently focused on frontend at <a href="[https://lazo.app](https://github.com/getlazo/lazo_web)">Lazo</a>, a Mobile friendly website.
+- Currently focused on frontend at <a href="https://github.com/getlazo/lazo_web">Lazo</a>, working on their mobile-friendly web app.
 
 ---
 
