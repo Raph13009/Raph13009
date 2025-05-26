@@ -37,12 +37,9 @@ My focus is on simplicity, clarity, and moving fast when needed.
 
 ---
 
+<!-- 🎯 Snake animation using Sutil/snk -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
-    <img alt="github-snake-animation" src="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
-  </picture>
+  <img alt="snake animation" src="https://github.com/Raph13009/Raph13009/blob/output/github-contribution-grid-snake2.svg" />
 </p>
 
 ---
