@@ -42,7 +42,11 @@ I’m not a developer by trade, but I use code regularly to build tools, test id
 ---
 
 <p align="center">
-  <img alt="github-snake-animation" src="https://raw.githubusercontent.com/Raph13009/Raph13009/output/github-contribution-grid-snake2.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
+  </picture>
 </p>
 
 ---
