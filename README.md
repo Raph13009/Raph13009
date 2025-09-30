@@ -12,21 +12,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💼 About Me
 
 Hi, I’m Raphaël.  
-I’m not a developer by trade, but I use code regularly to build tools, test ideas, and improve user-facing products.
+I run my own agency, where I use code and automation to help people and businesses work smarter.  
+Not a developer by trade, but I build fast, test ideas, and keep things simple.  
 
-- Mostly working with **JavaScript / React** and **Python** for automation.
-- Currently focused on frontend at <a href="https://github.com/getlazo/lazo_web">Lazo</a>, working on their mobile-friendly web app.
-- I care about clean UX, useful products, and keeping things simple and efficient.
+- Founder mindset: building tools, launching projects, iterating fast.  
+- Working with **web apps, workflow automation, and AI agents**.  
+- Passionate about clean UX, useful products, and turning ideas into reality.  
 
 ---
 
-## 🔗 Projects
+## 🚀 Current Focus
 
-- <a href="https://github.com/Raph13009/codeBase3">My personal website</a> — simple React-based site, evolving as I learn.
-- Private tools and experiments around Notion, Figma, and workflow automation.
+- Leading my agency and growing projects from idea to execution.  
+- Automating workflows with **Python**, **Notion**, and **Figma** integrations.  
+- Exploring **AI-driven tools** and **no-code/low-code solutions** to scale faster.  
 
 ---
 
@@ -35,6 +37,10 @@ I’m not a developer by trade, but I use code regularly to build tools, test id
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
@@ -51,4 +57,4 @@ I’m not a developer by trade, but I use code regularly to build tools, test id
 
 ---
 
-<p align="center"><i>Always learning. Sometimes building.</i></p>
+<p align="center"><i>Founder. Builder. Always learning.</i></p>
