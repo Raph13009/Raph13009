@@ -44,9 +44,6 @@
 
 ## 🐍 GitHub Snake
 
-This animated snake represents my GitHub contribution activity over time.
-Each commit feeds the snake — a simple visual metaphor for consistency and progress.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake-dark.svg" />
