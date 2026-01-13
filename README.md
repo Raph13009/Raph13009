@@ -11,20 +11,6 @@
 
 ---
 
-## Visual Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raph13009&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E)](https://github.com/Raph13009)
-
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Raph13009&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/Raph13009)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raph13009&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E)](https://github.com/Raph13009)
-
-</div>
-
----
-
 ## Builder Profile
 
 <div align="center">
@@ -60,17 +46,35 @@
 
 <div align="center">
 
-🚀 **Building client-facing products**  
-End-to-end product development from concept to deployment
+### 🚀 Building Client-Facing Products
+![Product](https://img.shields.io/badge/Product_Development-100%25-00D9FF?style=for-the-badge&logo=producthunt&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deployment-Ready-00FF88?style=for-the-badge&logo=vercel&logoColor=black)
 
-⚡ **Automation-first systems**  
-Eliminating manual work through intelligent automation
+**End-to-end product development from concept to deployment**
 
-🤖 **AI applied to real workflows**  
-Practical AI integration that delivers measurable value
+---
 
-⚡ **Shipping fast & iterating**  
-Rapid development cycles with continuous improvement
+### ⚡ Automation-First Systems
+![Automation](https://img.shields.io/badge/Automation-90%25-FF6B9D?style=for-the-badge&logo=githubactions&logoColor=white)
+![Efficiency](https://img.shields.io/badge/Efficiency-Max-FFC107?style=for-the-badge&logo=zapier&logoColor=black)
+
+**Eliminating manual work through intelligent automation**
+
+---
+
+### 🤖 AI Applied to Real Workflows
+![AI](https://img.shields.io/badge/AI_Integration-80%25-9C27B0?style=for-the-badge&logo=openai&logoColor=white)
+![Workflow](https://img.shields.io/badge/Workflow-Optimized-00D9FF?style=for-the-badge&logo=workflow&logoColor=white)
+
+**Practical AI integration that delivers measurable value**
+
+---
+
+### ⚡ Shipping Fast & Iterating
+![Speed](https://img.shields.io/badge/Speed-95%25-00FF88?style=for-the-badge&logo=rocket&logoColor=black)
+![Iteration](https://img.shields.io/badge/Iteration-Continuous-FF6B9D?style=for-the-badge&logo=loop&logoColor=white)
+
+**Rapid development cycles with continuous improvement**
 
 </div>
 
@@ -81,11 +85,32 @@ Rapid development cycles with continuous improvement
 <div align="center">
 
 ### 🍽️ MyTable
-**Work in Progress · Private Client Project**
 
-A modern booking platform connecting clients with professional chefs.
+![Status](https://img.shields.io/badge/Status-Work_in_Progress-FFC107?style=for-the-badge&logo=clock&logoColor=black)
+![Type](https://img.shields.io/badge/Type-Private_Client-9C27B0?style=for-the-badge&logo=lock&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Booking_System-00D9FF?style=for-the-badge&logo=calendar&logoColor=white)
 
-**Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
+**A modern booking platform connecting clients with professional chefs.**
+
+<br>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br>
+
+```
+┌─────────────────────────────────────────┐
+│  🍽️  MyTable Platform                  │
+│                                         │
+│  ✓ Real-time booking system            │
+│  ✓ Multi-service support               │
+│  ✓ Client-Chef communication           │
+│  ✓ Payment integration ready           │
+└─────────────────────────────────────────┘
+```
 
 </div>
 
