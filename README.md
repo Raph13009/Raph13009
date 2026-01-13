@@ -1,9 +1,13 @@
+<div align="center">
+
 # Raphaël
 
 **Founder · Product Builder · Automation & AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-levy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+
+</div>
 
 ---
 
@@ -27,7 +31,7 @@
 
 | Product Thinking | Automation | AI Usage | Frontend | Backend | Shipping Speed |
 |:----------------:|:----------:|:--------:|:--------:|:-------:|:--------------:|
-| ████████████ 95% | ████████████ 90% | ██████████░░ 80% | ███████████░ 85% | ███████████░ 85% | ████████████ 95% |
+| <img src="https://progress-bar.dev/95?title=&width=100&color=00D9FF" /> | <img src="https://progress-bar.dev/90?title=&width=100&color=00FF88" /> | <img src="https://progress-bar.dev/80?title=&width=100&color=FF6B9D" /> | <img src="https://progress-bar.dev/85?title=&width=100&color=FFC107" /> | <img src="https://progress-bar.dev/85?title=&width=100&color=9C27B0" /> | <img src="https://progress-bar.dev/95?title=&width=100&color=00D9FF" /> |
 
 </div>
 
@@ -54,19 +58,36 @@
 
 ## Area Focus
 
-- **Building client-facing products** — End-to-end product development from concept to deployment
-- **Automation-first systems** — Eliminating manual work through intelligent automation
-- **AI applied to real workflows** — Practical AI integration that delivers measurable value
-- **Shipping fast & iterating** — Rapid development cycles with continuous improvement
+<div align="center">
+
+🚀 **Building client-facing products**  
+End-to-end product development from concept to deployment
+
+⚡ **Automation-first systems**  
+Eliminating manual work through intelligent automation
+
+🤖 **AI applied to real workflows**  
+Practical AI integration that delivers measurable value
+
+⚡ **Shipping fast & iterating**  
+Rapid development cycles with continuous improvement
+
+</div>
 
 ---
 
 ## Projects Highlight
 
-### MyTable
+<div align="center">
+
+### 🍽️ MyTable
 **Work in Progress · Private Client Project**
 
-A modern booking platform connecting clients with professional chefs. Built with Next.js, TypeScript, and Supabase.
+A modern booking platform connecting clients with professional chefs.
+
+**Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
+
+</div>
 
 ---
 
