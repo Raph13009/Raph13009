@@ -44,39 +44,52 @@
 
 ## Area Focus
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
 ### 🚀 Building Client-Facing Products
+
 ![Product](https://img.shields.io/badge/Product_Development-100%25-00D9FF?style=for-the-badge&logo=producthunt&logoColor=white)
 ![Deployment](https://img.shields.io/badge/Deployment-Ready-00FF88?style=for-the-badge&logo=vercel&logoColor=black)
 
 **End-to-end product development from concept to deployment**
 
----
+</td>
+<td width="50%" align="center">
 
 ### ⚡ Automation-First Systems
+
 ![Automation](https://img.shields.io/badge/Automation-90%25-FF6B9D?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Efficiency](https://img.shields.io/badge/Efficiency-Max-FFC107?style=for-the-badge&logo=zapier&logoColor=black)
 
 **Eliminating manual work through intelligent automation**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
 ### 🤖 AI Applied to Real Workflows
+
 ![AI](https://img.shields.io/badge/AI_Integration-80%25-9C27B0?style=for-the-badge&logo=openai&logoColor=white)
 ![Workflow](https://img.shields.io/badge/Workflow-Optimized-00D9FF?style=for-the-badge&logo=workflow&logoColor=white)
 
 **Practical AI integration that delivers measurable value**
 
----
+</td>
+<td width="50%" align="center">
 
 ### ⚡ Shipping Fast & Iterating
+
 ![Speed](https://img.shields.io/badge/Speed-95%25-00FF88?style=for-the-badge&logo=rocket&logoColor=black)
 ![Iteration](https://img.shields.io/badge/Iteration-Continuous-FF6B9D?style=for-the-badge&logo=loop&logoColor=white)
 
 **Rapid development cycles with continuous improvement**
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -101,16 +114,20 @@
 
 <br>
 
+<div align="center">
+
 ```
-┌─────────────────────────────────────────┐
-│  🍽️  MyTable Platform                  │
-│                                         │
-│  ✓ Real-time booking system            │
-│  ✓ Multi-service support               │
-│  ✓ Client-Chef communication           │
-│  ✓ Payment integration ready           │
-└─────────────────────────────────────────┘
+╔═════════════════════════════════════════╗
+║  🍽️  MyTable Platform                   ║
+║                                         ║
+║  ✓ Real-time booking system            ║
+║  ✓ Multi-service support               ║
+║  ✓ Client-Chef communication           ║
+║  ✓ Payment integration ready           ║
+╚═════════════════════════════════════════╝
 ```
+
+</div>
 
 </div>
 
