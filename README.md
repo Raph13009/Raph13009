@@ -21,8 +21,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raph13009&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E)](https://github.com/Raph13009)
 
-> **Note:** Les stats se mettent à jour automatiquement. Si elles n'apparaissent pas immédiatement, c'est normal - le service peut prendre quelques minutes pour générer les images.
-
 </div>
 
 ---
@@ -33,7 +31,7 @@
 
 | Product Thinking | Automation | AI Usage | Frontend | Backend | Shipping Speed |
 |:----------------:|:----------:|:--------:|:--------:|:-------:|:--------------:|
-| ![95%](https://img.shields.io/badge/Product_Thinking-95%25-00D9FF?style=flat-square&logoColor=white) | ![90%](https://img.shields.io/badge/Automation-90%25-00FF88?style=flat-square&logoColor=white) | ![80%](https://img.shields.io/badge/AI_Usage-80%25-FF6B9D?style=flat-square&logoColor=white) | ![85%](https://img.shields.io/badge/Frontend-85%25-FFC107?style=flat-square&logoColor=black) | ![85%](https://img.shields.io/badge/Backend-85%25-9C27B0?style=flat-square&logoColor=white) | ![95%](https://img.shields.io/badge/Shipping_Speed-95%25-00D9FF?style=flat-square&logoColor=white) |
+| ████████████ 95% | ████████████ 90% | ██████████░░ 80% | ███████████░ 85% | ███████████░ 85% | ████████████ 95% |
 
 </div>
 
