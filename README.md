@@ -9,6 +9,17 @@
 
 </div>
 
+## 🐍 GitHub Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
+  </picture>
+</p>
+
+---
 ---
 
 ## Builder Profile
@@ -42,17 +53,7 @@
 
 ---
 
-## 🐍 GitHub Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Raph13009/Raph13009/output/snake.svg" />
-  </picture>
-</p>
-
----
 
 ## Area Focus
 
