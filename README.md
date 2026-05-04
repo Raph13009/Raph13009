@@ -4,7 +4,7 @@
 
 **Product Owner · AI Agency Founder · Builder**
 
-[![LinkedIn](https://img.shields.io/badge/PO%20%40%20Lemonway-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-levy)
+[![LinkedIn](https://img.shields.io/badge/PO%20%40%20Lemonway-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-levy-london/)
 [![Agency](https://img.shields.io/badge/Founder%20%40%20BoostAI%20Consulting-181717?style=flat-square&logo=github&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Open%20to%20Collaborate-2ea44f?style=flat-square)](#)
 
