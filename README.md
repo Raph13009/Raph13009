@@ -1,6 +1,6 @@
 <div align="center">
 
-# Raphaël Lévy
+# Raphaël Levy
 
 **Product Owner · AI Agency Founder · Builder**
 
