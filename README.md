@@ -29,7 +29,7 @@
 | | |
 |---|---|
 | **Currently** | Product Owner · [Lemonway](https://www.lemonway.com) — Fintech payment infrastructure |
-| **Agency** | [BoostAI Consulting](#) — Helping SMEs innovate through AI & digital products |
+| **Agency** | [BoostAI Consulting](https://www.boostaiconsulting.com/) — Helping SMEs innovate through AI & digital products |
 | **Education** | ESSEC & CentraleSupélec |
 | **Focus** | Product strategy · AI automation · Fast shipping |
 
